@@ -21,6 +21,7 @@ Users are able to select a country on a globe and the COVID19 statistics are dis
 * [React Globe](https://react-globe.netlify.app/)
 * [Axios](https://www.npmjs.com/package/axios)
 * [Bootstrap](https://getbootstrap.com/)
+* [Hosting](https://www.heroku.com)
 
 # Data
 * COVID-19 API from [Rapidapi](https://rapidapi.com/collection/coronavirus-covid-19)
